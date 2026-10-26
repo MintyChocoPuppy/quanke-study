@@ -54,5 +54,15 @@
   },
   "repository": "MintyChocoPuppy/quanke-study",
   "requestedDomain": "quanke.study.cn.lazynas.com",
-  "deployed": false
+  "deployed": false,
+  "chapterReading": {
+    "mode": "continuous-lazy",
+    "globalPages": 306,
+    "units": 29,
+    "bodyChapters": 24,
+    "firstLoad": "front matterPDF1–20 only",
+    "frontTransportParts": 23,
+    "bodyTransport": "independent semantic PDF units",
+    "automaticWholebookPrefetch": false
+  }
 }
