@@ -1,0 +1,58 @@
+{
+  "preparedAt": "2026-10-26T07:30:27.317Z",
+  "deliverable": true,
+  "notes": 59,
+  "notePages": 179,
+  "images": [
+    {
+      "path": "assets/general-figures/diagnostic-safety-20261025.png",
+      "sha256": "583ca2ec8052de65318a53a1f5aef7293fa5901cbb6bfc9257778aef059d7371",
+      "source": "existing-authorized-figure-with-caption"
+    },
+    {
+      "path": "assets/general-figures/community-diagnosis-cycle-20261025.png",
+      "sha256": "14adbc40e3c43f4778252a0445eeeed778d962b9399b8173892eddce29f2bc05",
+      "source": "existing-authorized-figure-with-caption"
+    }
+  ],
+  "syllabusModules": 11,
+  "textbookPages": 306,
+  "textbookSearchPages": 304,
+  "textbook": {
+    "fileName": "全科医学概论_第6版.pdf",
+    "actualSize": 135406287,
+    "actualSha256": "9daf0c292ba50220f08a17331f90364fcb20c454ba4bda899c7b2f7030f20979",
+    "declaredSize": 135416266,
+    "declaredSha256": "95e22d612f3b07421534a83ce82411f12497b6687f5116d336cd47393efe6193",
+    "differences": [
+      {
+        "part": "textbook-95e22d612f3b-0130.bin",
+        "declaredSize": 149962,
+        "actualSize": 142463
+      }
+    ],
+    "publicationRights": "User-provided textbook; public full-course migration explicitly requested. Publisher redistribution licence not independently verified.",
+    "preparedLocally": true,
+    "publicUpload": false,
+    "recovery": {
+      "sourceIsRepaired": true,
+      "resultIsRepaired": false,
+      "sourceBytes": 135408767,
+      "resultBytes": 135406287,
+      "pages": 306,
+      "pageTextEqual": true,
+      "pageRenderingEqual": true,
+      "renderedComparisons": 306,
+      "sourceSha256": "ee517ae2c53a860e451f01966a8297d934412ac6d7b8f845d5a403873da433c7",
+      "recoveredSha256": "9daf0c292ba50220f08a17331f90364fcb20c454ba4bda899c7b2f7030f20979"
+    }
+  },
+  "snapshot": {
+    "exportedAt": "2026-10-26T07:03:37.329Z",
+    "source": "https://study.lazynas.com/api/public/notes?subject=general",
+    "sha256": "0a2a628faf8dcb8151d18d42b4c87388a2c5fce9e77ce0fdba800083863c1301"
+  },
+  "repository": "MintyChocoPuppy/quanke-study",
+  "requestedDomain": "quanke.study.cn.lazynas.com",
+  "deployed": false
+}

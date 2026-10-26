@@ -1,0 +1,939 @@
+{
+  "updated": "2026-10-12",
+  "source": "《全科医学概论A》2025新版学习大纲定稿.pdf",
+  "modules": [
+    {
+      "id": "L1A1",
+      "code": "L1/A1",
+      "title": "全科医学概述",
+      "summary": "感受全科医学的使命及人文精神，将全科理念应用到临床实践中。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时 课外学习：自主学习 1 学时",
+      "hours": "",
+      "books": "第一章 全科医学概述；第二章 全科医学的基本原则和全科医学教育；第三章 全科医学与人文精神",
+      "pages": "PDF 第21页；PDF 第38页；PDF 第54页",
+      "bookPage": 21,
+      "bookTargets": [
+        {
+          "title": "第一章 全科医学概述",
+          "page": 21,
+          "level": 1,
+          "printedPage": 2
+        },
+        {
+          "title": "第二章 全科医学的基本原则和全科医学教育",
+          "page": 38,
+          "level": 1,
+          "printedPage": 19
+        },
+        {
+          "title": "第三章 全科医学与人文精神",
+          "page": 54,
+          "level": 1,
+          "printedPage": 35
+        }
+      ],
+      "sourcePages": "大纲第9页",
+      "objectives": [
+        "感受全科医学的使命及人文精神，将全科理念应用到临床实践中。",
+        "结合全科医学产生发展的背景与前景展望，阐述全科医学、全科医生的基本概念， 理解全科医生的角色特点，归纳总结全科医学的基本原则。",
+        "感受到医学模式的演变对医学人文精神的影响，提高自己的基本素质。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "全科医学的产生与发展。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "全科医学定义与基本概念。",
+            "全科医生的定义及角色。",
+            "医学人文精神的定义。",
+            "全科医生的基本素质。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "生物-心理-社会医学的模式。",
+            "全科医学的基本原则。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "全科医学/家庭医学",
+          "en": "General practice/Family medicine 全科医生/家庭医生 General practitioner/Family physician 整合医学 Integrative medicine 以病人为中心的照顾 Patient-centered care 以家庭为单位的照顾 Family-oriented care 以社区为范围的照顾 Community-oriented care 以预防为导向的照顾 Prevention-oriented care 连续性照顾 Continuity of care 综合性照顾 Comprehensive care 可及性照顾 Accessible care 协调性照顾 Coordinated care 团队合作 Team work"
+        }
+      ],
+      "readings": [
+        "中共中央 国务院印发《“健康中国 2030”规划纲要》 网址：https://www.gov.cn/zhengce/2016-10/25/content_5124174.htm。"
+      ],
+      "raw": "一、学习目标\n  1.感受全科医学的使命及人文精神，将全科理念应用到临床实践中。\n  2.结合全科医学产生发展的背景与前景展望，阐述全科医学、全科医生的基本概念，\n理解全科医生的角色特点，归纳总结全科医学的基本原则。\n  3.感受到医学模式的演变对医学人文精神的影响，提高自己的基本素质。\n\n二、学时安排\n\n  课堂教学：课堂讲授 2 学时\n  课外学习：自主学习 1 学时\n\n三、学习内容和要点\n\n  【说明】 1.学习内容按照事实性知识、概念性知识、基本原理、基本技能和解决问\n题等五个维度归纳总结，单个学习主题可能只涉及 1~5 个维度。2.以“                         ”标记为“重\n点”，以“    ”标注为“难点”，以“             ”标注为既是“重点”也是“难点”。3.每个维度内的\n学习要点按数字编号归纳总结。\n  （一）事实性知识\n  1.全科医学的产生与发展。\n  （二）概念性知识\n  1.全科医学定义与基本概念。\n  2.全科医生的定义及角色。\n  3.医学人文精神的定义。\n  4.全科医生的基本素质。\n  （三）基本原理\n  1.生物-心理-社会医学的模式。\n  2.全科医学的基本原则。\n\n四、专业术语（中英文对照）\n\n  全科医学/家庭医学         General practice/Family medicine\n  全科医生/家庭医生         General practitioner/Family physician\n  整合医学 Integrative medicine\n\n  以病人为中心的照顾           Patient-centered care\n  以家庭为单位的照顾 Family-oriented care\n  以社区为范围的照顾 Community-oriented care\n  以预防为导向的照顾 Prevention-oriented care\n  连续性照顾 Continuity of care\n  综合性照顾 Comprehensive care\n  可及性照顾 Accessible care\n  协调性照顾 Coordinated care\n  团队合作 Team work\n\n五、课外阅读\n\n  中共中央 国务院印发《“健康中国 2030”规划纲要》\n  网址：https://www.gov.cn/zhengce/2016-10/25/content_5124174.htm。",
+      "kinds": [
+        "lecture",
+        "self"
+      ]
+    },
+    {
+      "id": "L2A2",
+      "code": "L2/A2",
+      "title": "全科医生的临床诊疗思维与医患沟通",
+      "summary": "理解全科医生在基层医疗中的核心作用，认同以病人为中心的服务理念。培养对 患者背景的敏感性，增强人文关怀意识。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时； 课外学习：自主学习 1 学时。",
+      "hours": "",
+      "books": "第四章 全科医生的临床诊疗思维；第五章 全科医学中的医患沟通与法律问题",
+      "pages": "PDF 第63页；PDF 第74页",
+      "bookPage": 63,
+      "bookTargets": [
+        {
+          "title": "第四章 全科医生的临床诊疗思维",
+          "page": 63,
+          "level": 1,
+          "printedPage": 44
+        },
+        {
+          "title": "第五章 全科医学中的医患沟通与法律问题",
+          "page": 74,
+          "level": 1,
+          "printedPage": 55
+        }
+      ],
+      "sourcePages": "大纲第10页",
+      "objectives": [
+        "理解全科医生在基层医疗中的核心作用，认同以病人为中心的服务理念。培养对 患者背景的敏感性，增强人文关怀意识。",
+        "梳理临床思维的定义、要素及基本方法，区分以疾病为中心的集中思维与以病人 为中心的发散思维，理解全科医学的系统性思维特征。",
+        "应用生物-心理-社会医学模式分析健康问题，整合生理、心理、社会因素制定诊 疗计划。",
+        "理解医患沟通的要素及影响因素，运用医患沟通语言性与非语言性技巧，将医患 沟通的基本原则应用在日常医患沟通实践工作中。",
+        "理解医患权利与义务，认识全科医学中常见的法律问题。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "临床思维的发展简史。",
+            "全科医生在基层医疗中的常见问题类型。",
+            "医患沟通的影响因素。",
+            "急救与转诊相关法律规定。",
+            "病人发生意外伤害的法律问题"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "临床思维",
+            "医患关系的概念、内容、特征、模式类型和特点。",
+            "医患沟通的概念、要素、基本原则。",
+            "全科医学中的医患权利和关系、常见的法律问题。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "临床思维方法",
+            "全科医学临床思维特征:"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "全科医生的诊疗流程。",
+            "医患沟通的沟通技巧。",
+            "模拟不同情景的医患沟通。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "临床思维",
+          "en": "Clinical Thinking 假设演绎推理 Hypothetico-Deductive Reasoning 横向列举法 Lateral Enumeration 医患关系 doctor-patient relationship 医患关系模式 doctor-patient relationship model 医患沟通 doctor-patient communication 医疗合同 medical service contract 法律权利 legal right 法律义务 legal obligations 误诊 misdiagnosis 诊断证明 diagnostic proof 健康档案 health records 家庭医疗服务 family medical services"
+        }
+      ],
+      "readings": [
+        "《全科医学》（第 3 版），梁万年，路孝琴，人民卫生出版社，2023，P153-175.",
+        "杨玲，杜雪平.Murtagh 安全诊断策略联合思维导图构建临床思维在全科教学门诊 中的应用 [J].中国全科医学,2025,8（6）:673-680.",
+        "柴栖晨，王静.全科医学临床诊疗思维研究——腹痛[J].中国全科医学.2021,24(17)： 2241-2224",
+        "郑旭东,许磊.探讨医患沟通在防范医疗纠纷中的重要性[J].中国继续医学教育, 2021,13(18):101-104.",
+        "刘朦朦,孙小越,郝雨,等. 医患共同决策中的信任和沟通[J].医学与哲学， 2021,42(14):26-29."
+      ],
+      "raw": "一、学习目标\n\n  1.理解全科医生在基层医疗中的核心作用，认同以病人为中心的服务理念。培养对\n患者背景的敏感性，增强人文关怀意识。\n  2.梳理临床思维的定义、要素及基本方法，区分以疾病为中心的集中思维与以病人\n为中心的发散思维，理解全科医学的系统性思维特征。\n  3.应用生物-心理-社会医学模式分析健康问题，整合生理、心理、社会因素制定诊\n疗计划。\n  4.理解医患沟通的要素及影响因素，运用医患沟通语言性与非语言性技巧，将医患\n沟通的基本原则应用在日常医患沟通实践工作中。\n  5.理解医患权利与义务，认识全科医学中常见的法律问题。\n\n二、学时安排\n\n  课堂教学：课堂讲授 2 学时；\n  课外学习：自主学习 1 学时。\n\n三、学习内容和要点\n\n  （一）事实性知识\n  1.临床思维的发展简史。\n\n 2.全科医生在基层医疗中的常见问题类型。\n 3.医患沟通的影响因素。\n 4.急救与转诊相关法律规定。\n 5.病人发生意外伤害的法律问题\n （二）概念性知识\n 1.临床思维\n 2.医患关系的概念、内容、特征、模式类型和特点。\n 3.医患沟通的概念、要素、基本原则。\n 4.全科医学中的医患权利和关系、常见的法律问题。\n （三）基本原理\n 1. 临床思维方法\n 2.全科医学临床思维特征:\n （四）基本技能\n 1.全科医生的诊疗流程。\n 2.医患沟通的沟通技巧。\n 3.模拟不同情景的医患沟通。\n\n四、专业术语（中英文对照）\n\n 临床思维      Clinical Thinking\n 假设演绎推理 Hypothetico-Deductive Reasoning\n 横向列举法 Lateral Enumeration\n 医患关系 doctor-patient relationship\n 医患关系模式 doctor-patient relationship model\n 医患沟通 doctor-patient communication\n 医疗合同 medical service contract\n 法律权利 legal right\n 法律义务 legal obligations\n 误诊 misdiagnosis\n 诊断证明 diagnostic proof\n 健康档案 health records\n 家庭医疗服务 family medical services\n\n四、课外阅读\n\n    1. 《全科医学》（第 3 版），梁万年，路孝琴，人民卫生出版社，2023，P153-175.\n    2. 杨玲，杜雪平.Murtagh 安全诊断策略联合思维导图构建临床思维在全科教学门诊\n中的应用 [J].中国全科医学,2025,8（6）:673-680.\n    3. 柴栖晨，王静.全科医学临床诊疗思维研究——腹痛[J].中国全科医学.2021,24(17)：\n2241-2224\n    4. 郑旭东,许磊.探讨医患沟通在防范医疗纠纷中的重要性[J].中国继续医学教育,\n2021,13(18):101-104.\n    5. 刘朦朦,孙小越,郝雨,等. 医患共同决策中的信任和沟通[J].医学与哲学，\n2021,42(14):26-29.",
+      "kinds": [
+        "lecture",
+        "self"
+      ]
+    },
+    {
+      "id": "L3A3",
+      "code": "L3/A3",
+      "title": "全科医学的基本原则",
+      "summary": "理解全科医学的四项基本原则的定义、内容，记忆全科医生应诊的四项任务。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时； 课外学习：自主学习 2 学时。",
+      "hours": "",
+      "books": "第六章 以人为中心的健康照顾；第七章 以家庭为单位的健康照顾；第八章 以社区为范围的健康照顾；第九章 以预防为导向的健康照顾",
+      "pages": "PDF 第88页；PDF 第98页；PDF 第117页；PDF 第130页",
+      "bookPage": 88,
+      "bookTargets": [
+        {
+          "title": "第六章 以人为中心的健康照顾",
+          "page": 88,
+          "level": 1,
+          "printedPage": 69
+        },
+        {
+          "title": "第七章 以家庭为单位的健康照顾",
+          "page": 98,
+          "level": 1,
+          "printedPage": 79
+        },
+        {
+          "title": "第八章 以社区为范围的健康照顾",
+          "page": 117,
+          "level": 1,
+          "printedPage": 98
+        },
+        {
+          "title": "第九章 以预防为导向的健康照顾",
+          "page": 130,
+          "level": 1,
+          "printedPage": 111
+        }
+      ],
+      "sourcePages": "大纲第12页",
+      "objectives": [
+        "理解全科医学的四项基本原则的定义、内容，记忆全科医生应诊的四项任务。",
+        "归纳家庭生活周期的特点及各阶段的照顾重心，辨别家庭资源、家庭危机，认识 到其重要性；",
+        "分析社区健康问题的特点及全科医学的应对策略。",
+        "应用全科医学预防服务指南，引导社区居民开展自我保健。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "不同医学模式的关注中心。",
+            "社区医学的产生与发展。",
+            "影响人体健康的因素流行病学特点。",
+            "全科医生提供预防服务的优势及策略。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "家庭、家系图、家庭圈、家庭凝聚度与适应度、家庭治疗的定义与内容。",
+            "社区、社区医学、以社区为导向的基层医疗及社区诊断的定义与内容。",
+            "全科医学应诊的 4 项主要任务。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "生物-心理-社会医学模式。",
+            "家庭生活周期。",
+            "健康评估的方法。",
+            "社区诊断内容与步骤。",
+            "疾病的三级预防及全科医学预防服务的一般原则。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "以病人为中心的接诊模式及全科医疗的问诊方法。",
+            "家系图的规范绘制。",
+            "对特定人群制定三级预防的方案。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "全科医疗的问诊方式应用。",
+            "尝试对自己的家庭采用不同评估方法做出评估。",
+            "确定社区主要健康问题及优先解决问题的顺序，实施社区计划，做出全科医学的 应对策略并评估效果。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "生物-心理-社会医学模式",
+          "en": "Bio-psycho-social medical model 现患问题 Present problem LEARN 模式 Listen-explain-acknowledge-recommend-negotiate BETHE 问诊方法 Background-affect-trouble-handling-empathy 健康信念模型 Health belief model 临终关怀 Hospice 家庭治疗 Family therapy 家庭圈 Family circle 家系图 Genogram，family tree 家庭评估 Family assessment 家庭危机 Family crisis 家庭资源 Family resource 家庭生活周期 Family life cycle 家庭结构 Family structure 社区 Community 社区医学 Community medicinne 社区诊断 Community Diagnosis 社区医学教育 Community medical education 社区导向基层医疗 Community-Oriented Primary Care（COPC） 预防保健 Preventive care 健康评估 Health assessment 健康干预 Health intervention 三级预防 Three-level prevention"
+        }
+      ],
+      "readings": [
+        "《莫塔全科医学》第八版 人民卫生出版社 .P306-325.",
+        "《全科医学概论》（第 6 版），顾湲主编，人民卫生出版社，2022，P45-52。",
+        "《全科医学理论与实践》王爽主编，科学出版社，2020，P78-85。",
+        "《全科医学临床实践》（第 2 版），主编：王强，出版社：科学出版社，出版年 份：2022，P120-125",
+        "《全科医学案例分析》，主编：赵丽，出版社：人民卫生出版社，出版年份：2021， P80-85",
+        "《预防医学》（第 8 版），主编：胡志斌，出版社：人民卫生出版社，出版年份： 2024"
+      ],
+      "raw": "一、学习目标\n\n    1.理解全科医学的四项基本原则的定义、内容，记忆全科医生应诊的四项任务。\n    2.归纳家庭生活周期的特点及各阶段的照顾重心，辨别家庭资源、家庭危机，认识\n到其重要性；\n    3.分析社区健康问题的特点及全科医学的应对策略。\n    4.应用全科医学预防服务指南，引导社区居民开展自我保健。\n\n二、学时安排\n\n    课堂教学：课堂讲授 2 学时；\n    课外学习：自主学习 2 学时。\n\n三、学习内容和要点\n\n    （一）事实性知识\n    1.不同医学模式的关注中心。\n    2.社区医学的产生与发展。\n    3.影响人体健康的因素流行病学特点。\n    4.全科医生提供预防服务的优势及策略。\n    （二）概念性知识\n    1.家庭、家系图、家庭圈、家庭凝聚度与适应度、家庭治疗的定义与内容。\n    2.社区、社区医学、以社区为导向的基层医疗及社区诊断的定义与内容。\n    3.全科医学应诊的 4 项主要任务。\n\n （三）基本原理\n 1.生物-心理-社会医学模式。\n 2.家庭生活周期。\n 3.健康评估的方法。\n 4.社区诊断内容与步骤。\n 5.疾病的三级预防及全科医学预防服务的一般原则。\n （四）基本技能\n 1.以病人为中心的接诊模式及全科医疗的问诊方法。\n 2.家系图的规范绘制。\n 3.对特定人群制定三级预防的方案。\n （五）问题解决\n 1.全科医疗的问诊方式应用。\n 2.尝试对自己的家庭采用不同评估方法做出评估。\n 3.确定社区主要健康问题及优先解决问题的顺序，实施社区计划，做出全科医学的\n应对策略并评估效果。\n\n四、专业术语（中英文对照）\n\n 生物-心理-社会医学模式 Bio-psycho-social medical model\n 现患问题 Present problem\n LEARN 模式 Listen-explain-acknowledge-recommend-negotiate\n BETHE 问诊方法 Background-affect-trouble-handling-empathy\n 健康信念模型 Health belief model\n 临终关怀 Hospice\n 家庭治疗 Family therapy\n 家庭圈 Family circle\n 家系图 Genogram，family tree\n 家庭评估 Family assessment\n 家庭危机 Family crisis\n 家庭资源 Family resource\n 家庭生活周期 Family life cycle\n 家庭结构 Family structure\n 社区 Community\n 社区医学 Community medicinne\n\n    社区诊断 Community Diagnosis\n    社区医学教育 Community medical education\n    社区导向基层医疗 Community-Oriented Primary Care（COPC）\n    预防保健 Preventive care\n    健康评估 Health assessment\n    健康干预 Health intervention\n    三级预防 Three-level prevention\n\n五、课外阅读\n\n    1.《莫塔全科医学》第八版 人民卫生出版社 .P306-325.\n    2.《全科医学概论》（第 6 版），顾湲主编，人民卫生出版社，2022，P45-52。\n    3.《全科医学理论与实践》王爽主编，科学出版社，2020，P78-85。\n    4.《全科医学临床实践》（第 2 版），主编：王强，出版社：科学出版社，出版年\n份：2022，P120-125\n    5.《全科医学案例分析》，主编：赵丽，出版社：人民卫生出版社，出版年份：2021，\nP80-85\n    6.《预防医学》（第 8 版），主编：胡志斌，出版社：人民卫生出版社，出版年份：\n2024",
+      "kinds": [
+        "lecture",
+        "self"
+      ]
+    },
+    {
+      "id": "L4A4",
+      "code": "L4/A4",
+      "title": "全科医生开展健康管理及科学研究",
+      "summary": "认识健康管理的重要性，并且建立主动健康观念与行为，正确实施健康管理和评 估健康危险因素。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时； 课外学习：自主学习 2 学时。",
+      "hours": "",
+      "books": "第十章 健康管理及实施策略；第十一章 全科医学的科学研究",
+      "pages": "PDF 第142页；PDF 第157页",
+      "bookPage": 142,
+      "bookTargets": [
+        {
+          "title": "第十章 健康管理及实施策略",
+          "page": 142,
+          "level": 1,
+          "printedPage": 123
+        },
+        {
+          "title": "第十一章 全科医学的科学研究",
+          "page": 157,
+          "level": 1,
+          "printedPage": 138
+        }
+      ],
+      "sourcePages": "大纲第14页",
+      "objectives": [
+        "认识健康管理的重要性，并且建立主动健康观念与行为，正确实施健康管理和评 估健康危险因素。",
+        "理解全科医学科学研究的基本概念、范畴、目的与意义，学会全科医学科学研究 设计与实施的基本步骤和方法。",
+        "能说明全科医学科学研究中医学伦理原则的内涵及其重要性，理解知情同意、公 平正义、有利不伤害等核心伦理原则。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "全科医学与健康管理具有密切的相关性。",
+            "全科医学科学研究的定义、目的、范畴与学科基础。",
+            "循证医学的概念及其临床应用意义。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "健康管理的定义、主要内容及意义。",
+            "全科医学科学研究的设计类型。",
+            "循证全科医疗实践步骤。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "健康管理可以应用于多个场景。",
+            "科学研究的基本步骤。",
+            "循证医学的三要素结合原则。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "收集健康信息，评估健康危险因素，能够进行健康指导及健康危险因素干预。",
+            "初步发现科研问题与建立假设。",
+            "基本科研设计方案的制订。",
+            "循证证据的检索、评价与临床应用。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "亚健康状态及重点人群健康管理。",
+            "全科医疗实践中常见健康问题的循证解决策略。",
+            "多病共存病人综合管理中的循证决策方法。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "健康管理",
+          "en": "health management 亚健康：suboptimal health status，SHS 循证医学 Evidence-Based Medicine (EBM) 描述性研究 Descriptive Study 分析性研究 Analytic Study 实验性研究 Experimental Study POEM 证据 Patient-Oriented Evidence that Matters DOE 证据 Disease-Oriented Evidence PICO 原则 Patient, Intervention, Comparison, Outcome 伦理原则 Ethical Principles 知情同意 Informed Consent"
+        }
+      ],
+      "readings": [
+        "《循证医学与基础》（第二版）王育琴 主编，人民卫生出版社，第 1-3 章，第 5 章。",
+        "《医学科研方法学》（第四版）陈君石 主编，人民卫生出版社，第 3-5 章。",
+        "《POEM 与 DOE 证据实践指南》，《中华全科医学杂志》2020 年第 18 卷第 6 期， P432-P438。",
+        "UpToDate 数据库：循证医学方法和推荐指南检索（www.uptodate.com）"
+      ],
+      "raw": "一、学习目标\n\n    1.认识健康管理的重要性，并且建立主动健康观念与行为，正确实施健康管理和评\n估健康危险因素。\n    2.理解全科医学科学研究的基本概念、范畴、目的与意义，学会全科医学科学研究\n设计与实施的基本步骤和方法。\n    3.能说明全科医学科学研究中医学伦理原则的内涵及其重要性，理解知情同意、公\n平正义、有利不伤害等核心伦理原则。\n\n二、学时安排\n\n    课堂教学：课堂讲授 2 学时；\n    课外学习：自主学习 2 学时。\n\n三、学习内容和要点\n\n （一）事实性知识\n 1.全科医学与健康管理具有密切的相关性。\n 2.全科医学科学研究的定义、目的、范畴与学科基础。\n 3.循证医学的概念及其临床应用意义。\n （二）概念性知识\n 1.健康管理的定义、主要内容及意义。\n 2.全科医学科学研究的设计类型。\n 3.循证全科医疗实践步骤。\n （三）基本原理\n 1.健康管理可以应用于多个场景。\n 2.科学研究的基本步骤。\n 3.循证医学的三要素结合原则。\n （四）基本技能\n 1.收集健康信息，评估健康危险因素，能够进行健康指导及健康危险因素干预。\n 2.初步发现科研问题与建立假设。\n 3.基本科研设计方案的制订。\n 4.循证证据的检索、评价与临床应用。\n （五）问题解决\n 1.亚健康状态及重点人群健康管理。\n 2.全科医疗实践中常见健康问题的循证解决策略。\n 3.多病共存病人综合管理中的循证决策方法。\n\n四、专业术语（中英文对照）\n\n  健康管理：health management\n  亚健康：suboptimal health status，SHS\n  循证医学 Evidence-Based Medicine (EBM)\n  描述性研究 Descriptive Study\n  分析性研究 Analytic Study\n  实验性研究 Experimental Study\n  POEM 证据 Patient-Oriented Evidence that Matters\n  DOE 证据 Disease-Oriented Evidence\n  PICO 原则 Patient, Intervention, Comparison, Outcome\n  伦理原则 Ethical Principles\n\n     知情同意 Informed Consent\n\n五、课外阅读\n\n   1.《循证医学与基础》（第二版）王育琴 主编，人民卫生出版社，第 1-3 章，第 5\n章。\n   2.《医学科研方法学》（第四版）陈君石 主编，人民卫生出版社，第 3-5 章。\n   3.《POEM 与 DOE 证据实践指南》，《中华全科医学杂志》2020 年第 18 卷第 6 期，\nP432-P438。\n   4.UpToDate 数据库：循证医学方法和推荐指南检索（www.uptodate.com）",
+      "kinds": [
+        "lecture",
+        "self"
+      ]
+    },
+    {
+      "id": "L5",
+      "code": "L5",
+      "title": "全科医疗实践（一）",
+      "summary": "概括水肿、消瘦、胸痛的定义及常见病因。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时；",
+      "hours": "",
+      "books": "第十二章 水肿的全科医学处理；第十三章 消瘦的全科医学处理；第十四章 胸痛的全科医学处理",
+      "pages": "PDF 第173页；PDF 第178页；PDF 第185页",
+      "bookPage": 173,
+      "bookTargets": [
+        {
+          "title": "第十二章 水肿的全科医学处理",
+          "page": 173,
+          "level": 1,
+          "printedPage": 154
+        },
+        {
+          "title": "第十三章 消瘦的全科医学处理",
+          "page": 178,
+          "level": 1,
+          "printedPage": 159
+        },
+        {
+          "title": "第十四章 胸痛的全科医学处理",
+          "page": 185,
+          "level": 1,
+          "printedPage": 166
+        }
+      ],
+      "sourcePages": "大纲第16页",
+      "objectives": [
+        "概括水肿、消瘦、胸痛的定义及常见病因。",
+        "理解水肿、消瘦、胸痛的发病机制，注意诊疗过程中易忽略的病因。",
+        "能够根据水肿、消瘦、胸痛的临床特点，初步判断病因，制定个体化的干预措施。",
+        "能够在关注水肿、消瘦、胸痛诊断和治疗的同时，关注患者心理因素，最大限度 地为患者提供帮助。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "水肿、消瘦及胸痛的流行病学特点。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "水肿、消瘦、胸痛的定义及产生因素。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "水肿、消瘦、胸痛的发病机制。",
+            "症状性疾病的诊疗思维。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "把握转诊指征并能够进行转诊前的积极处理。",
+            "社区管理要点。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "对水肿、消瘦、胸痛的患者进行病因分析、鉴别诊断，尤其易忽略的疾病。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "水肿",
+          "en": "Edema 消瘦 Weight loss 发病机制 Pathogenesis 临床评估 Clinical assessment 冠状动脉粥样硬化性心脏病 Coronary atherosclerotic Heart Disease(CAD) 急性心肌梗死 Acute Myocardial Infarction (AMI) 心绞痛 Angina Pectoris(AP） 主动脉夹层 Aortic Dissection，(AD） 肺动脉栓塞 Pulmonary Embolism (PE)"
+        }
+      ],
+      "readings": [
+        "《全科医学临床实践》（第 3 版），主编：祝缮珠等，出版社：人民卫生出版社. 出版年份：2023；",
+        "《全科医学案例解析》，主编：孙艳格，出版社：人民卫生出版社，出版年份： 2023；",
+        "《莫塔全科医学》（第 8 版），人民卫生出版社 出版年份：2023 年。",
+        "中国老年医学学会，浙江省医学会全科医学分会，全科未分化疾病专家协作组. 消 瘦 诊 治 与 管 理 专 家 共 识 （ 2025 ） . 中 国 全 科 医 学 ， 2025 ， 28(21):2577-2594. DOI:10.12114/j.issn.1007-9572.2025.0030.",
+        "主动脉夹层诊断与治疗规范中国专家共识 中华胸心血管外科杂志 2017 年 11 月第 33 卷 11 期.",
+        "肺血栓栓塞症诊治与预防指南.中华医学杂志 2018 年 4 月 10 日第 98 卷第 14 期.",
+        "HEART 评分联合系列心肌肌钙蛋白在急诊胸痛患者中的危险分层价值.中华急诊 医学杂志 2023 年 4 月第 32 卷第 4 期."
+      ],
+      "raw": "一、学习目标\n\n   1.概括水肿、消瘦、胸痛的定义及常见病因。\n   2.理解水肿、消瘦、胸痛的发病机制，注意诊疗过程中易忽略的病因。\n   3.能够根据水肿、消瘦、胸痛的临床特点，初步判断病因，制定个体化的干预措施。\n   4.能够在关注水肿、消瘦、胸痛诊断和治疗的同时，关注患者心理因素，最大限度\n地为患者提供帮助。\n\n二、学时安排\n\n   课堂教学：课堂讲授 2 学时；\n\n三、学习内容和要点\n\n   （一）事实性知识\n   1.水肿、消瘦及胸痛的流行病学特点。\n   （二）概念性知识\n   1.水肿、消瘦、胸痛的定义及产生因素。\n   （三）基本原理\n   1.水肿、消瘦、胸痛的发病机制。\n   2.症状性疾病的诊疗思维。\n   （四）基本技能\n   1.把握转诊指征并能够进行转诊前的积极处理。\n   2.社区管理要点。\n   （五）问题解决\n\n    1.对水肿、消瘦、胸痛的患者进行病因分析、鉴别诊断，尤其易忽略的疾病。\n\n四、专业术语（中英文对照）\n\n    水肿 Edema\n    消瘦 Weight loss\n    发病机制 Pathogenesis\n    临床评估        Clinical assessment\n    冠状动脉粥样硬化性心脏病 Coronary atherosclerotic Heart Disease(CAD)\n    急性心肌梗死 Acute Myocardial Infarction (AMI)\n    心绞痛 Angina Pectoris(AP）\n    主动脉夹层 Aortic Dissection，(AD）\n    肺动脉栓塞 Pulmonary Embolism (PE)\n\n五、课外阅读\n\n    1.《全科医学临床实践》（第 3 版），主编：祝缮珠等，出版社：人民卫生出版社.\n出版年份：2023；\n    2.《全科医学案例解析》，主编：孙艳格，出版社：人民卫生出版社，出版年份：\n2023；\n    3.《莫塔全科医学》（第 8 版），人民卫生出版社 出版年份：2023 年。\n    4.中国老年医学学会，浙江省医学会全科医学分会，全科未分化疾病专家协作组. 消\n瘦 诊 治 与 管 理 专 家 共 识 （ 2025 ） . 中 国 全 科 医 学 ， 2025 ， 28(21):2577-2594.\nDOI:10.12114/j.issn.1007-9572.2025.0030.\n    5.主动脉夹层诊断与治疗规范中国专家共识 中华胸心血管外科杂志 2017 年 11 月第\n33 卷 11 期.\n    6.肺血栓栓塞症诊治与预防指南.中华医学杂志 2018 年 4 月 10 日第 98 卷第 14 期.\n    7.HEART 评分联合系列心肌肌钙蛋白在急诊胸痛患者中的危险分层价值.中华急诊\n医学杂志 2023 年 4 月第 32 卷第 4 期.",
+      "kinds": [
+        "lecture"
+      ]
+    },
+    {
+      "id": "L6",
+      "code": "L6",
+      "title": "全科医疗实践（二）",
+      "summary": "能够在社区接诊发热或反复就诊患者时，快速识别高危发热及医学无法解释症状 的核心特征，优先排除危及生命的病因。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时；",
+      "hours": "",
+      "books": "第十五章 发热的全科医学处理；第十六章 医学无法解释症状的全科医学处理",
+      "pages": "PDF 第196页；PDF 第204页",
+      "bookPage": 196,
+      "bookTargets": [
+        {
+          "title": "第十五章 发热的全科医学处理",
+          "page": 196,
+          "level": 1,
+          "printedPage": 177
+        },
+        {
+          "title": "第十六章 医学无法解释症状的全科医学处理",
+          "page": 204,
+          "level": 1,
+          "printedPage": 185
+        }
+      ],
+      "sourcePages": "大纲第17页",
+      "objectives": [
+        "能够在社区接诊发热或反复就诊患者时，快速识别高危发热及医学无法解释症状 的核心特征，优先排除危及生命的病因。",
+        "根据结构化问诊和体格检查流程，结合辅助检查明确病因。",
+        "应用生物-心理-社会评估模型，系统分析症状的躯体、心理和社会影响因素。",
+        "探讨危重发热或难治性 MUS 在上级医院的诊疗流程或多学科诊疗模式。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "发热的病因及分类。",
+            "医学无法解释症状的发病特点及常见表现。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "发热及医学无法解释症状定义。",
+            "相关疾病谱。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "发热及医学无法解释症状的发病机制。",
+            "症状维持机制。",
+            "症状性疾病的诊疗思维。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "把握转诊指征并能够进行转诊前的积极处理。",
+            "明确社区管理要点。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "对发热及医学无法解释症状患者进行病因分析、鉴别诊断，尤其易忽略的疾病。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "全身炎症反应综合征",
+          "en": "Systemic Inflammatory Response Syndrome （SIRS） 快速序贯器官衰竭评分 Quick Sequential Organ Failure Assessmen（qSOFA） 不明原因发热 Fever of Unknown Origin（FUO） 医院获得性肺炎 Hospital-Acquired Pneumonia（HAP） 医学无法解释症状 Medically Unexplained Symptoms（MUS） 躯体症状障碍 Somatic Symptom Disorder（SSD） 认知行为疗法 Cognitive Behavioral Therapy（CBT） 功能性躯体综合征 Functional Somatic Syndromes（FSS）"
+        }
+      ],
+      "readings": [
+        "《热病：桑福德抗微生物治疗指南》（新译第52版）",
+        "《不明原因发热诊断专家共识》中华传染病杂志 2023;41(5):289-298",
+        "案例学习：社区发热患者误诊为感冒的化脓性脑膜炎病例分析（全科医学临床杂 志 2022;10(3):45-48）。",
+        "《全科医学中的心理社会问题》（第3版），人民卫生出版社，P201-215",
+        "NICE指南《医学无法解释症状的识别和管理》（NG204, 2023）",
+        "《躯体症状障碍的诊断标准变迁：DSM-5到ICD-11》. 中华精神科杂志 2022;55(4):289-295"
+      ],
+      "raw": "一、学习目标\n\n    1.能够在社区接诊发热或反复就诊患者时，快速识别高危发热及医学无法解释症状\n的核心特征，优先排除危及生命的病因。\n\n 2.根据结构化问诊和体格检查流程，结合辅助检查明确病因。\n 3.应用生物-心理-社会评估模型，系统分析症状的躯体、心理和社会影响因素。\n 4.探讨危重发热或难治性 MUS 在上级医院的诊疗流程或多学科诊疗模式。\n\n二、学时安排\n\n 课堂教学：课堂讲授 2 学时；\n\n三、学习内容和要点\n\n （一）事实性知识\n 1.发热的病因及分类。\n 2.医学无法解释症状的发病特点及常见表现。\n （二）概念性知识\n 1.发热及医学无法解释症状定义。\n 2.相关疾病谱。\n （三）基本原理\n 1.发热及医学无法解释症状的发病机制。\n 2.症状维持机制。\n 3.症状性疾病的诊疗思维。\n （四）基本技能\n 1.把握转诊指征并能够进行转诊前的积极处理。\n 2.明确社区管理要点。\n （五）问题解决\n 1.对发热及医学无法解释症状患者进行病因分析、鉴别诊断，尤其易忽略的疾病。\n\n四、专业术语（中英文对照）\n\n 全身炎症反应综合征         Systemic Inflammatory Response Syndrome （SIRS）\n 快速序贯器官衰竭评分 Quick Sequential Organ Failure Assessmen（qSOFA）\n 不明原因发热            Fever of Unknown Origin（FUO）\n 医院获得性肺炎           Hospital-Acquired Pneumonia（HAP）\n 医学无法解释症状          Medically Unexplained Symptoms（MUS）\n 躯体症状障碍            Somatic Symptom Disorder（SSD）\n 认知行为疗法            Cognitive Behavioral Therapy（CBT）\n 功能性躯体综合征          Functional Somatic Syndromes（FSS）\n\n五、课外阅读\n\n    1.《热病：桑福德抗微生物治疗指南》（新译第52版）\n    2.《不明原因发热诊断专家共识》中华传染病杂志 2023;41(5):289-298\n    3.案例学习：社区发热患者误诊为感冒的化脓性脑膜炎病例分析（全科医学临床杂\n志 2022;10(3):45-48）。\n    4.《全科医学中的心理社会问题》（第3版），人民卫生出版社，P201-215\n    5.NICE指南《医学无法解释症状的识别和管理》（NG204, 2023）\n    6.《躯体症状障碍的诊断标准变迁：DSM-5到ICD-11》. 中华精神科杂志\n2022;55(4):289-295",
+      "kinds": [
+        "lecture"
+      ]
+    },
+    {
+      "id": "L7",
+      "code": "L7",
+      "title": "全科医疗实践（三）",
+      "summary": "记忆高血压、糖尿病、慢阻肺流行病学特征、危险因素和发病机制；",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时；",
+      "hours": "",
+      "books": "第十七章 高血压的全科医学处理；第十八章 糖尿病的全科医学处理；第十九章 慢性阻塞性肺疾病的全科医学处理",
+      "pages": "PDF 第211页；PDF 第221页；PDF 第234页",
+      "bookPage": 211,
+      "bookTargets": [
+        {
+          "title": "第十七章 高血压的全科医学处理",
+          "page": 211,
+          "level": 1,
+          "printedPage": 192
+        },
+        {
+          "title": "第十八章 糖尿病的全科医学处理",
+          "page": 221,
+          "level": 1,
+          "printedPage": 202
+        },
+        {
+          "title": "第十九章 慢性阻塞性肺疾病的全科医学处理",
+          "page": 234,
+          "level": 1,
+          "printedPage": 215
+        }
+      ],
+      "sourcePages": "大纲第19页",
+      "objectives": [
+        "记忆高血压、糖尿病、慢阻肺流行病学特征、危险因素和发病机制；",
+        "理解基本概念、临床分型、常见症状、体征、并发症和辅助检查；",
+        "分析高血压、糖尿病、慢阻肺的鉴别诊断、治疗、社区处理及社区管理。",
+        "能够认识到高血压、糖尿病、慢阻肺对居民健康的危害，理解全科医学处理的重 要性，强化职业责任感。",
+        "能够将所学知识运用到日常生活和慢性病宣传教育和防控工作中。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "高血压、糖尿病、慢阻肺的流行病学特征。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "高血压、糖尿病、慢阻肺的定义、临床表现。",
+            "高血压、糖尿病、慢阻肺的社区筛查。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "高血压、糖尿病、慢阻肺的危险因素和发病机制。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "高血压、糖尿病、慢阻肺的诊断、鉴别诊断、评估及治疗。",
+            "高血压、糖尿病、慢阻肺的基层管理流程、内容与要点。",
+            "把握转诊指征并能够进行转诊前的积极处理。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "高血压、糖尿病、慢阻肺社区筛查、管理、预防。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "高血压",
+          "en": "Hypertension 动态血压监测 Ambulatory blood pressure monitoring(ABPM） 血管紧张素转换酶抑制剂 Angiotensin-Converting Enzyme Inhibitors(ACEI） 口服葡萄糖耐量试验 Oral Glucose Tolerance Test (OGTT) 空腹血糖受损 Impaired Fasting Glucose (IFG) 糖耐量异常 Impaired Glucose Tolerance (IGT) 糖化血红蛋白 Glycated Hemoglobin (HbA1c) 糖尿病肾病 Diabetic Kidney Disease (DKD) 慢性阻塞性肺疾病 Chronic obstructive pulmonary disease（COPD） 慢性支气管炎 Chronic bronchitis 肺气肿 Emphysema 一秒用力呼气容积 Forced expiratory volume in 1 second（FEV₁） 用力肺活量 Forced vital capacity（FVC） 长效抗胆碱能药 Long-acting muscarinic antagonist（LAMA） 长效β₂受体激动剂 Long-acting beta₂-agonist（LABA） 长期家庭氧疗 Long-term oxygen therapy（LTOT） 慢阻肺急性加重 Acute exacerbation of COPD（AECOPD） 无创通气 Non-invasive ventilation（NIV）"
+        }
+      ],
+      "readings": [
+        "《高血压患者临床实践诊疗口袋书》（孙宁玲等主编）",
+        "《新型冠状病毒肺炎疫情对社区老年高血压病人睡眠的影响》（贾坚，2020）",
+        "《高血压（第三版）》“常识篇”（梁万年等著）",
+        "中 华 医 学 会 .2 型 糖 尿 病 基 层 诊 疗 指 南 ( 实 践 版 ·2019)[J]. 中 华 全 科 医 师 杂 志,2019,09:810-818.",
+        "彭红叶,荆雅楠,留典淳,等.糖尿病前期中西医结合早期诊断的国内外进展与挑战 [J].中国全科医学,2025,28(03):262-272.",
+        "中华医学会等, 中国慢性阻塞性肺疾病基层诊疗与管理指南（2024 年）. 中华全 科医师杂志, 2024. 23(6): 第 578-602 页."
+      ],
+      "raw": "一、学习目标\n\n    1.记忆高血压、糖尿病、慢阻肺流行病学特征、危险因素和发病机制；\n    2.理解基本概念、临床分型、常见症状、体征、并发症和辅助检查；\n    3.分析高血压、糖尿病、慢阻肺的鉴别诊断、治疗、社区处理及社区管理。\n    4.能够认识到高血压、糖尿病、慢阻肺对居民健康的危害，理解全科医学处理的重\n要性，强化职业责任感。\n    5.能够将所学知识运用到日常生活和慢性病宣传教育和防控工作中。\n\n二、学时安排\n\n    课堂教学：课堂讲授 2 学时；\n\n三、学习内容和要点\n\n    （一）事实性知识\n    1.高血压、糖尿病、慢阻肺的流行病学特征。\n    （二）概念性知识\n    1.高血压、糖尿病、慢阻肺的定义、临床表现。\n    2.高血压、糖尿病、慢阻肺的社区筛查。\n    （三）基本原理\n    1.高血压、糖尿病、慢阻肺的危险因素和发病机制。\n    （四）基本技能\n    1.高血压、糖尿病、慢阻肺的诊断、鉴别诊断、评估及治疗。\n\n    2.高血压、糖尿病、慢阻肺的基层管理流程、内容与要点。\n    3.把握转诊指征并能够进行转诊前的积极处理。\n    （五）问题解决\n     1. 高血压、糖尿病、慢阻肺社区筛查、管理、预防。\n\n四、专业术语（中英文对照）\n\n    高血压 Hypertension\n    动态血压监测 Ambulatory blood pressure monitoring(ABPM）\n    血管紧张素转换酶抑制剂 Angiotensin-Converting Enzyme Inhibitors(ACEI）\n    口服葡萄糖耐量试验 Oral Glucose Tolerance Test (OGTT)\n    空腹血糖受损 Impaired Fasting Glucose (IFG)\n    糖耐量异常 Impaired Glucose Tolerance (IGT)\n    糖化血红蛋白 Glycated Hemoglobin (HbA1c)\n    糖尿病肾病 Diabetic Kidney Disease (DKD)\n    慢性阻塞性肺疾病 Chronic obstructive pulmonary disease（COPD）\n    慢性支气管炎 Chronic bronchitis\n    肺气肿 Emphysema\n    一秒用力呼气容积 Forced expiratory volume in 1 second（FEV₁）\n    用力肺活量 Forced vital capacity（FVC）\n    长效抗胆碱能药 Long-acting muscarinic antagonist（LAMA）\n    长效β₂受体激动剂 Long-acting beta₂-agonist（LABA）\n    长期家庭氧疗 Long-term oxygen therapy（LTOT）\n    慢阻肺急性加重 Acute exacerbation of COPD（AECOPD）\n    无创通气 Non-invasive ventilation（NIV）\n\n五、课外阅读\n\n    1.《高血压患者临床实践诊疗口袋书》（孙宁玲等主编）\n    2.《新型冠状病毒肺炎疫情对社区老年高血压病人睡眠的影响》（贾坚，2020）\n    3.《高血压（第三版）》“常识篇”（梁万年等著）\n    4. 中 华 医 学 会 .2 型 糖 尿 病 基 层 诊 疗 指 南 ( 实 践 版 ·2019)[J]. 中 华 全 科 医 师 杂\n志,2019,09:810-818.\n    5.彭红叶,荆雅楠,留典淳,等.糖尿病前期中西医结合早期诊断的国内外进展与挑战\n[J].中国全科医学,2025,28(03):262-272.\n\n   6.中华医学会等, 中国慢性阻塞性肺疾病基层诊疗与管理指南（2024 年）. 中华全\n科医师杂志, 2024. 23(6): 第 578-602 页.",
+      "kinds": [
+        "lecture"
+      ]
+    },
+    {
+      "id": "L8",
+      "code": "L8",
+      "title": "全科医疗实践（四）",
+      "summary": "识别常见的两种精神障碍。",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时；",
+      "hours": "",
+      "books": "第二十章 抑郁障碍的全科医学处理；第二十一章 焦虑障碍的全科医学处理；第二十二章 恶性肿瘤的全科医学处理",
+      "pages": "PDF 第243页；PDF 第251页；PDF 第258页",
+      "bookPage": 243,
+      "bookTargets": [
+        {
+          "title": "第二十章 抑郁障碍的全科医学处理",
+          "page": 243,
+          "level": 1,
+          "printedPage": 224
+        },
+        {
+          "title": "第二十一章 焦虑障碍的全科医学处理",
+          "page": 251,
+          "level": 1,
+          "printedPage": 232
+        },
+        {
+          "title": "第二十二章 恶性肿瘤的全科医学处理",
+          "page": 258,
+          "level": 1,
+          "printedPage": 239
+        }
+      ],
+      "sourcePages": "大纲第21页",
+      "objectives": [
+        "识别常见的两种精神障碍。",
+        "总结抑郁障碍、焦虑障碍、恶性肿瘤的常见临床表现、诊断和鉴别诊断。",
+        "概括抑郁障碍、焦虑障碍的基本诊治原则，能够及时干预出现自伤和自杀等行为, 并且及时转诊至专科机构。",
+        "树立“早发现、早诊断、早治疗”的观念，提出恶性肿瘤心理社会干预措施，识别 心理问题，制定恶性肿瘤三级预防诊疗方案。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "抑郁障碍、焦虑障碍和恶性肿瘤的流行病学。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "抑郁障碍、焦虑障碍和恶性肿瘤的概念及常见临床表现。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "精神障碍的病因和发病机制。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "牢记精神障碍和恶性肿瘤的诊断流程及基础管理。",
+            "把握转诊指征并能进行转诊前的积极处理。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "精神障碍和恶性肿瘤的社区筛查、管理、预防。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "抑郁障碍",
+          "en": "Depressive disorders，DD 5-羟色胺 5-hydroxy tryptamine, 5-HT 去甲肾上腺素 Norepinephrine,NE 多巴胺 Dopamine,DA 5-羟吲哚乙酸 5-hydroxyindole acetic acid,5-HIAA 下丘脑-垂体-肾上腺轴 The hypothalamic–pituitary–adrenal axis,HPA 轴 5 -羟色胺再摄取抑制剂 Selective Serotonin Reuptake Inhibitors，SSRIs 5- 羟 色 胺 和 去 甲 肾 上 腺 素 再 摄 取 抑 制 剂 Serotonin and Noradrenalin Reuptake Inhibitors,SNRI. 去甲肾上腺素和特异性 5 -羟色胺能抗抑郁药 Noradrenergic and Specific Serotonergic Antidepressants，NaSSA γ-氨基丁酸 A 型受体 γ- Aminobutyric acid type a receptor, GABAA 受体 苯二氮卓类药物 Benzodiazepine,BZD 肿瘤 Tumor/neoplasm"
+        }
+      ],
+      "readings": [
+        "中华医学会,中华医学会杂志社,中华医学会全科医学分会,中华医学会精神医学分 会抑郁障碍协作组,中华医学会《中华全科医师杂志》编辑委员会,神经系统疾病基层诊 疗指南编写专家组。抑郁症基层诊疗指南（实践版·2021）[J].中华全科医师杂 志,2021,20(12):1261-1268",
+        "中华医学会精神医学分会抑郁障碍研究协作组。成人抑郁症患者自杀行为临床管 理专家共识[J]。中华精神科杂志, 2025,58(05): 331-346.",
+        "俞玉珊,徐志杰.社区全科医生应对疾病焦虑障碍的管理策略[J].2021, 24(28):36 48-3652.",
+        "袁勇贵,张慧娟,仁珂明等.疾病焦虑障碍研究进展[J].中华精神科杂志，2023:56 (2):81-88."
+      ],
+      "raw": "一、学习目标\n\n   1.识别常见的两种精神障碍。\n\n   2.总结抑郁障碍、焦虑障碍、恶性肿瘤的常见临床表现、诊断和鉴别诊断。\n\n   3.概括抑郁障碍、焦虑障碍的基本诊治原则，能够及时干预出现自伤和自杀等行为,\n并且及时转诊至专科机构。\n\n   4.树立“早发现、早诊断、早治疗”的观念，提出恶性肿瘤心理社会干预措施，识别\n心理问题，制定恶性肿瘤三级预防诊疗方案。\n\n二、学时安排\n\n   课堂教学：课堂讲授 2 学时；\n\n三、学习内容和要点\n\n   （一）事实性知识\n   1.抑郁障碍、焦虑障碍和恶性肿瘤的流行病学。\n   （二）概念性知识\n   1.抑郁障碍、焦虑障碍和恶性肿瘤的概念及常见临床表现。\n   （三）基本原理\n   1.精神障碍的病因和发病机制。\n   （四）基本技能\n   1.牢记精神障碍和恶性肿瘤的诊断流程及基础管理。\n   2.把握转诊指征并能进行转诊前的积极处理。\n   （五）问题解决\n   1.精神障碍和恶性肿瘤的社区筛查、管理、预防。\n\n四、专业术语（中英文对照）\n\n 抑郁障碍 Depressive disorders，DD\n 5-羟色胺 5-hydroxy tryptamine, 5-HT\n 去甲肾上腺素 Norepinephrine,NE\n\n  多巴胺 Dopamine,DA\n  5-羟吲哚乙酸 5-hydroxyindole acetic acid,5-HIAA\n  下丘脑-垂体-肾上腺轴 The hypothalamic–pituitary–adrenal axis,HPA 轴\n  5 -羟色胺再摄取抑制剂 Selective Serotonin Reuptake Inhibitors，SSRIs\n  5- 羟 色 胺 和 去 甲 肾 上 腺 素 再 摄 取 抑 制 剂 Serotonin and Noradrenalin Reuptake\nInhibitors,SNRI.\n  去甲肾上腺素和特异性 5 -羟色胺能抗抑郁药 Noradrenergic and Specific Serotonergic\nAntidepressants，NaSSA\n  γ-氨基丁酸 A 型受体 γ- Aminobutyric acid type a receptor, GABAA 受体\n  苯二氮卓类药物 Benzodiazepine,BZD\n  肿瘤 Tumor/neoplasm\n\n五、课外阅读\n\n    1.中华医学会,中华医学会杂志社,中华医学会全科医学分会,中华医学会精神医学分\n会抑郁障碍协作组,中华医学会《中华全科医师杂志》编辑委员会,神经系统疾病基层诊\n疗指南编写专家组。抑郁症基层诊疗指南（实践版·2021）[J].中华全科医师杂\n志,2021,20(12):1261-1268\n    2.中华医学会精神医学分会抑郁障碍研究协作组。成人抑郁症患者自杀行为临床管\n理专家共识[J]。中华精神科杂志, 2025,58(05): 331-346.\n    3.俞玉珊,徐志杰.社区全科医生应对疾病焦虑障碍的管理策略[J].2021, 24(28):36\n48-3652.\n    4.袁勇贵,张慧娟,仁珂明等.疾病焦虑障碍研究进展[J].中华精神科杂志，2023:56\n(2):81-88.",
+      "kinds": [
+        "lecture"
+      ]
+    },
+    {
+      "id": "L9",
+      "code": "L9",
+      "title": "全科医疗实践（五）",
+      "summary": "通过学习社区常见急症，让学生珍惜生命，认识到院前急救的重要性和价值；",
+      "kind": "lecture",
+      "hoursLabel": "课堂教学：课堂讲授 2 学时；",
+      "hours": "",
+      "books": "第二十三章 社区急症的全科医学处理；第二十四章 重点人群的全科医疗服务",
+      "pages": "PDF 第266页；PDF 第288页",
+      "bookPage": 266,
+      "bookTargets": [
+        {
+          "title": "第二十三章 社区急症的全科医学处理",
+          "page": 266,
+          "level": 1,
+          "printedPage": 247
+        },
+        {
+          "title": "第二十四章 重点人群的全科医疗服务",
+          "page": 288,
+          "level": 1,
+          "printedPage": 269
+        }
+      ],
+      "sourcePages": "大纲第22页",
+      "objectives": [
+        "通过学习社区常见急症，让学生珍惜生命，认识到院前急救的重要性和价值；",
+        "熟记院前急救的原则和方法，把握转诊指征和运送方法。",
+        "概括总结重点人群的保健重点。",
+        "能应用老年综合评估（CGA）工具制定个性化干预计划，解释健康老龄化内涵。"
+      ],
+      "dimensions": [
+        {
+          "title": "事实性知识",
+          "items": [
+            "社区急症的流行病学。",
+            "社区重点人群现状。"
+          ]
+        },
+        {
+          "title": "概念性知识",
+          "items": [
+            "常见社区急症及其定义。",
+            "重点人群的范畴。",
+            "健康老龄化的定义。",
+            "老年人社区保健”5 大抓手”。"
+          ]
+        },
+        {
+          "title": "基本原理",
+          "items": [
+            "常见社区急症的病因及发病机制。",
+            "儿童保健系统管理。"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "把握现场急救的原则，熟悉常用急救方法。",
+            "学会识别社区急症，牢记重危病人的运送方法及后续的全面照顾。",
+            "明确重点人群的管理流程。",
+            "把握转诊指征并能够进行转诊前的积极处理。",
+            "明确社区管理要点。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "重点人群的规范管理。"
+          ]
+        }
+      ],
+      "terms": [
+        {
+          "zh": "创伤",
+          "en": "Trauma 意外伤害 Accident injury 淹溺 Drowning 烧伤 Fire burn 冻伤 Frostbite 电击伤 Electrical 急性中毒 Acute poisoning 异物吸入 Foreign aspiration 自杀 Suicide 跌伤 Falling injury 心搏骤停 Sudden cardiac（SCA） 急性腹痛 Acute abdominal pain 晕厥 Syncope 中暑 Heatstroke 上消化道出血 Upper gastrointestinal hemorrhage 药物过敏反应 Drug anaphylaxis 低血糖症 Hypoglycemia 健康老龄化 Healthy Ageing 老年综合评估 Comprehensive Geriatric Assessment (CGA) 孕产妇保健 Maternal Health Care 发育筛查 Developmental Screening 多重用药 Polypharmacy"
+        }
+      ],
+      "readings": [
+        "国家卫健委.《国家基本公共卫生服务规范（第三版）》. 2017, 老年人健康管理/ 孕产妇健康管理/0-6 岁儿童健康管理章节",
+        "南京鼓楼区社区中心.《重点人群家庭医生签约服务案例汇编》. 2023, P15-30（老 年多病共存管理）"
+      ],
+      "raw": "一、学习目标\n\n    1.通过学习社区常见急症，让学生珍惜生命，认识到院前急救的重要性和价值；\n    2.熟记院前急救的原则和方法，把握转诊指征和运送方法。\n    3.概括总结重点人群的保健重点。\n    4.能应用老年综合评估（CGA）工具制定个性化干预计划，解释健康老龄化内涵。\n\n二、学时安排\n\n  课堂教学：课堂讲授 2 学时；\n\n三、学习内容和要点\n\n （一）事实性知识\n 1.社区急症的流行病学。\n 2.社区重点人群现状。\n （二）概念性知识\n 1.常见社区急症及其定义。\n 2.重点人群的范畴。\n 3.健康老龄化的定义。\n 4.老年人社区保健”5 大抓手”。\n （三）基本原理\n 1.常见社区急症的病因及发病机制。\n 2.儿童保健系统管理。\n （四）基本技能\n 1.把握现场急救的原则，熟悉常用急救方法。\n 2.学会识别社区急症，牢记重危病人的运送方法及后续的全面照顾。\n 3.明确重点人群的管理流程。\n 4.把握转诊指征并能够进行转诊前的积极处理。\n 5.明确社区管理要点。\n （五）问题解决\n 1.重点人群的规范管理。\n\n四、专业术语（中英文对照）\n\n 创伤   Trauma\n 意外伤害 Accident injury\n 淹溺 Drowning\n 烧伤 Fire burn\n 冻伤 Frostbite\n 电击伤 Electrical\n 急性中毒 Acute poisoning\n 异物吸入 Foreign aspiration\n 自杀 Suicide\n\n  跌伤 Falling injury\n  心搏骤停 Sudden cardiac（SCA）\n  急性腹痛 Acute abdominal pain\n  晕厥 Syncope\n  中暑 Heatstroke\n  上消化道出血 Upper gastrointestinal hemorrhage\n  药物过敏反应 Drug anaphylaxis\n  低血糖症 Hypoglycemia\n  健康老龄化        Healthy Ageing\n  老年综合评估 Comprehensive Geriatric Assessment (CGA)\n  孕产妇保健        Maternal Health Care\n  发育筛查      Developmental Screening\n  多重用药      Polypharmacy\n\n五、课外阅读\n\n  1.国家卫健委.《国家基本公共卫生服务规范（第三版）》. 2017, 老年人健康管理/\n孕产妇健康管理/0-6 岁儿童健康管理章节\n  2.南京鼓楼区社区中心.《重点人群家庭医生签约服务案例汇编》. 2023, P15-30（老\n年多病共存管理）",
+      "kinds": [
+        "lecture"
+      ]
+    },
+    {
+      "id": "C1",
+      "code": "C1",
+      "title": "基层医疗机构健康管理",
+      "summary": "通过社区卫生服务中心慢病筛防中心或健康小屋的见习，加强对社区常见慢性病 的认识，理解全科医学处理的重要性，强化职业责任感。",
+      "kind": "practice",
+      "hoursLabel": "见习教学：见习教学 3 学时；",
+      "hours": "",
+      "books": "第十七章 高血压的全科医学处理；第十八章 糖尿病的全科医学处理；第十九章 慢性阻塞性肺疾病的全科医学处理",
+      "pages": "PDF 第211页；PDF 第221页；PDF 第234页",
+      "bookPage": 211,
+      "bookTargets": [
+        {
+          "title": "第十七章 高血压的全科医学处理",
+          "page": 211,
+          "level": 1,
+          "printedPage": 192
+        },
+        {
+          "title": "第十八章 糖尿病的全科医学处理",
+          "page": 221,
+          "level": 1,
+          "printedPage": 202
+        },
+        {
+          "title": "第十九章 慢性阻塞性肺疾病的全科医学处理",
+          "page": 234,
+          "level": 1,
+          "printedPage": 215
+        }
+      ],
+      "sourcePages": "大纲第24页",
+      "objectives": [
+        "通过社区卫生服务中心慢病筛防中心或健康小屋的见习，加强对社区常见慢性病 的认识，理解全科医学处理的重要性，强化职业责任感。",
+        "直观的感受基层医疗机构如何实施慢性病的社区管理，能够记忆不同慢性病的社 区管理要点及流程。",
+        "能够把握慢性病转诊的指证及转诊过程中的注意事项。",
+        "能够将所学知识运用到日常生活和慢性病宣传教育和防控工作中。"
+      ],
+      "dimensions": [
+        {
+          "title": "概念性知识",
+          "items": [
+            "慢性病患者健康档案"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "识别高血压、糖尿病、慢阻肺的高危人群，进行简单健康教育。",
+            "梳理记忆高血压、糖尿病、慢阻肺的基层管理流程、内容与要点。",
+            "把握转诊指征并能够进行转诊前的积极处理。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "高血压、糖尿病、慢阻肺社区筛查、管理、预防。"
+          ]
+        }
+      ],
+      "terms": [],
+      "readings": [],
+      "raw": "一、学习目标\n\n  1.通过社区卫生服务中心慢病筛防中心或健康小屋的见习，加强对社区常见慢性病\n的认识，理解全科医学处理的重要性，强化职业责任感。\n  2.直观的感受基层医疗机构如何实施慢性病的社区管理，能够记忆不同慢性病的社\n区管理要点及流程。\n  3.能够把握慢性病转诊的指证及转诊过程中的注意事项。\n  4.能够将所学知识运用到日常生活和慢性病宣传教育和防控工作中。\n\n二、学时安排\n\n  见习教学：见习教学 3 学时；\n\n三、学习内容和要点\n\n （一）概念性知识\n 1.慢性病患者健康档案\n （四）基本技能\n 1.识别高血压、糖尿病、慢阻肺的高危人群，进行简单健康教育。\n 2.梳理记忆高血压、糖尿病、慢阻肺的基层管理流程、内容与要点。\n 3.把握转诊指征并能够进行转诊前的积极处理。\n （五）问题解决\n 1.高血压、糖尿病、慢阻肺社区筛查、管理、预防。",
+      "kinds": [
+        "practice"
+      ]
+    },
+    {
+      "id": "C2",
+      "code": "C2",
+      "title": "重点人群的全科医疗服务",
+      "summary": "通过社区卫生服务中心妇保科、儿保科和体检中心的见习，加强对社区重点人群 保健重点的认识，理解全科医学处理的重要性，强化职业责任感。",
+      "kind": "practice",
+      "hoursLabel": "见习教学：见习教学 3 学时；",
+      "hours": "",
+      "books": "第二十四章 重点人群的全科医疗服务",
+      "pages": "PDF 第288页",
+      "bookPage": 288,
+      "bookTargets": [
+        {
+          "title": "第二十四章 重点人群的全科医疗服务",
+          "page": 288,
+          "level": 1,
+          "printedPage": 269
+        }
+      ],
+      "sourcePages": "大纲第25页",
+      "objectives": [
+        "通过社区卫生服务中心妇保科、儿保科和体检中心的见习，加强对社区重点人群 保健重点的认识，理解全科医学处理的重要性，强化职业责任感。",
+        "围绕家庭生活周期，明确不同时期不同人群的常见临床问题及管理要点。"
+      ],
+      "dimensions": [
+        {
+          "title": "概念性知识",
+          "items": [
+            "家庭生活周期"
+          ]
+        },
+        {
+          "title": "基本技能",
+          "items": [
+            "识别不同生活周期重点人群常见的临床问题。",
+            "对重点人群进行个体化的预防保健服务。"
+          ]
+        },
+        {
+          "title": "问题解决",
+          "items": [
+            "重点人群的规范化管理。"
+          ]
+        }
+      ],
+      "terms": [],
+      "readings": [],
+      "raw": "一、学习目标\n\n 1.通过社区卫生服务中心妇保科、儿保科和体检中心的见习，加强对社区重点人群\n保健重点的认识，理解全科医学处理的重要性，强化职业责任感。\n 2.围绕家庭生活周期，明确不同时期不同人群的常见临床问题及管理要点。\n\n二、学时安排\n\n 见习教学：见习教学 3 学时；\n\n三、学习内容和要点\n\n （一）概念性知识\n 1.家庭生活周期\n （二）基本技能\n 1.识别不同生活周期重点人群常见的临床问题。\n 2.对重点人群进行个体化的预防保健服务。\n （三）问题解决\n 1.重点人群的规范化管理。",
+      "kinds": [
+        "practice"
+      ]
+    }
+  ]
+}

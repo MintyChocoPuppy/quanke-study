@@ -1,0 +1,69 @@
+/* A paper document with three independently editable regions on every page. */
+.cornell-pages,.cornell-editor{counter-reset:cornell-page}
+.cornell-page{counter-increment:cornell-page;display:grid;grid-template-columns:minmax(0,1fr) minmax(190px,27%);grid-template-areas:"main margin" "review review";grid-template-rows:1fr auto;position:relative;width:100%;max-width:1050px;min-height:1180px;margin:0 auto 28px;background:#fffefa;border:1px solid #ddd6cc;box-shadow:0 5px 22px #352d4010;color:#352d40;white-space:normal;break-after:page}
+.cornell-page:before{content:"第 " counter(cornell-page) " 页";position:absolute;top:10px;right:18px;font:10px var(--sans);color:#948b80;pointer-events:none}
+.cornell-page:last-child{margin-bottom:0;break-after:auto}
+.cornell-region{min-width:0;padding:38px 32px 26px}
+.cornell-main{grid-area:main}
+.cornell-margin{grid-area:margin;border-left:1px solid #e5dfd4;background:#faf7f0;padding-left:22px;padding-right:22px}
+.cornell-review{grid-area:review;border-top:1px solid #ded6c8;min-height:180px;padding:20px 32px 26px}
+.cornell-region-label{font:10px/1.6 var(--sans);letter-spacing:1px;color:#8a7b65;margin:0 0 22px;user-select:none}
+.cornell-region-content{min-height:50px;white-space:pre-wrap;overflow-wrap:anywhere}
+.cornell-main .cornell-region-content{min-height:700px}
+.cornell-margin .cornell-region-content{font-size:12px;line-height:1.9;color:#74654f}
+.cornell-review .cornell-region-content{min-height:95px;font-size:14px;line-height:32px;background:repeating-linear-gradient(to bottom,transparent 0,transparent 31px,#eae4d8 31px,#eae4d8 32px)}
+.cornell-page h1{font-size:1.7em}.cornell-page h2{font-size:1.35em;margin-top:0;border-bottom:0;padding-bottom:0}.cornell-page h3{font-size:1.08em;margin-top:1.2em}.cornell-page p{margin-bottom:.85em}.cornell-page ul,.cornell-page ol{padding-left:1.45em;margin:.75em 0}.cornell-page li+li{margin-top:.35em}
+.cornell-page table{font-size:12px}.cornell-page th,.cornell-page td{min-width:70px;padding:7px 9px}.cornell-page .tableWrapper{margin:1em 0}.cornell-margin h3{font-size:1em}.cornell-margin a{word-break:break-word}.cornell-margin blockquote{padding:8px 10px;margin:1em 0}.cornell-margin .cornell-region-label{white-space:normal}
+.note-reading-cornell{max-width:none}.note-reading-cornell>h1,.note-reading-cornell>.note-reading-meta{max-width:1050px;margin-left:auto;margin-right:auto}
+/* Rendered HTML is normal document flow; source newlines are not blank lines.
+   Contenteditable regions retain pre-wrap for caret and typed-space behavior. */
+.note-reading .cornell-region-content{white-space:normal}
+.note-reading .note-table-scroll{min-width:0;max-width:100%;overflow-x:auto;margin:1.25em 0;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch}
+.note-reading .note-table-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.note-reading .note-table-scroll>table{display:table;width:100%;margin:0;border-collapse:collapse;table-layout:auto;overflow:visible;white-space:normal}
+.note-reading pre,.note-reading pre code{white-space:pre;overflow-wrap:normal}
+.note-reading pre{max-width:100%;overflow-x:auto}
+.notebook.has-cornell .note-paper{background:#eeebE6;padding:28px 24px 48px}
+.notebook.has-cornell.is-editing .note-paper{padding:24px clamp(14px,3vw,48px) 48px}
+.notebook.has-cornell .visual-editor{max-width:1050px}
+.notebook.has-cornell .rich-toolbar{border:1px solid var(--line);border-radius:7px;padding:6px 10px;margin-bottom:18px;box-shadow:0 2px 8px #352d4008}
+.notebook.has-cornell .rich-prose.cornell-editor{padding:0;min-height:0;white-space:normal;font-size:15px;line-height:1.85}
+.notebook.has-cornell .rich-prose .cornell-region-content:focus{outline:none}
+.notebook.has-cornell .note-title{font-size:28px}.notebook.has-cornell .note-info{margin-bottom:16px}
+.notebook.has-cornell.is-editing .note-title,.notebook.has-cornell.is-editing .note-info{max-width:1050px}
+.notebook.has-cornell .rich-prose .cornell-page table{table-layout:auto}
+.editor-page-action{color:var(--accent)!important}
+/* Move only the supplement's presentation; Markdown and editor regions stay put. */
+.notebook.margin-footer .cornell-page{grid-template-columns:minmax(0,1fr);grid-template-areas:"main" "margin" "review";grid-template-rows:1fr auto auto}
+.notebook.margin-footer .cornell-margin{border-left:0;border-top:1px solid #e5dfd4;padding-top:20px}
+@media screen{
+ .notebook.has-cornell.is-editing .visual-editor,.notebook.has-cornell.is-editing .note-title,.notebook.has-cornell.is-editing .note-info{max-width:1320px}
+ .notebook.has-cornell.is-editing .cornell-page{max-width:none}
+ .notebook.has-cornell.is-editing .rich-prose.cornell-editor{font-size:17px}
+ .notebook.has-cornell.is-editing .cornell-margin .cornell-region-content{font-size:13px}
+ .notebook.has-cornell.is-editing .cornell-review .cornell-region-content{font-size:16px}
+ .notebook.is-editing .note-info,.notebook.is-editing .editor-local-status{display:none}
+ .notebook.is-editing.info-open .note-info{display:block}
+}
+@media(max-width:900px){
+ .cornell-page{grid-template-columns:minmax(0,1fr) minmax(155px,27%);min-height:1000px}
+ .cornell-region{padding:34px 22px 22px}.cornell-margin{padding-left:16px;padding-right:16px}.cornell-main .cornell-region-content{min-height:580px}.cornell-review{padding-top:18px;min-height:160px}
+}
+@media(max-width:600px){
+ .cornell-page{grid-template-columns:minmax(0,1fr);grid-template-areas:"main" "margin" "review";grid-template-rows:auto auto auto;min-height:0}
+ .cornell-main .cornell-region-content{min-height:260px}.cornell-margin{border-left:0;border-top:1px solid #e5dfd4;padding-top:18px}.cornell-margin .cornell-region-content{min-height:35px}.cornell-review{min-height:155px}
+ .cornell-region{padding-left:18px;padding-right:18px}.cornell-region-label{margin-bottom:14px}
+ .notebook.has-cornell .note-paper,.notebook.has-cornell.is-editing .note-paper{padding:20px 10px 32px}
+ .notebook.has-cornell .rich-prose.cornell-editor{font-size:14px}
+ .notebook.has-cornell.is-editing .rich-prose.cornell-editor{font-size:15px}
+}
+@media print{
+ @page{size:A4;margin:12mm}
+ .notebook.has-cornell,.notebook.has-cornell .notes-main,.notebook.has-cornell .notes-workspace,.notebook.has-cornell .note-document{display:block;width:100%;height:auto;min-height:0;overflow:visible}
+ .notebook.has-cornell .note-paper{padding:0;background:white;overflow:visible}
+ .cornell-page{max-width:none;min-height:255mm;box-shadow:none;border:1px solid #ddd;grid-template-columns:minmax(0,1fr) 26%;margin:0;break-after:page}
+ .cornell-region{padding:9mm 6mm 6mm}.cornell-main .cornell-region-content{min-height:150mm}.cornell-review{min-height:40mm;padding-top:5mm}.cornell-region-label{margin-bottom:4mm}
+ .rich-toolbar,.editor-local-status,.note-info,.note-title,.note-reading-cornell>.note-reading-meta,.note-reading-cornell>h1{display:none!important}
+ .cornell-pages,.cornell-editor,.note-reading-cornell{max-width:none;overflow:visible}
+ .note-reading .note-table-scroll{overflow:visible}
+}
