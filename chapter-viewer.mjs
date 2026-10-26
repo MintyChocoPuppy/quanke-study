@@ -1,6 +1,6 @@
 import './pdf-compat.mjs';
-import {ChapterStore,unitForPage,validPage} from './chapter-model.mjs';
-import {UnitParts,unitRangeTransport} from './unit-parts.mjs';
+import {ChapterStore,unitForPage,validPage} from './chapter-model.mjs?v=fetchbind-20261026';
+import {UnitParts,unitRangeTransport} from './unit-parts.mjs?v=fetchbind-20261026';
 const $=id=>document.getElementById(id),root=$('viewerContainer'),viewer=$('viewer'),status=$('chapterStatus');
 const listeners=new Map(),bus={on(type,fn,options){const row={fn,once:options?.once};if(!listeners.has(type))listeners.set(type,[]);listeners.get(type).push(row);},dispatch(type,data={}){for(const row of [...listeners.get(type)||[]]){row.fn(data);if(row.once)listeners.set(type,listeners.get(type).filter(x=>x!==row));}}};
 let manifest,store,pdfjs,slots=[],current=1,scaleValue='page-width',scale=1,rotation=0,started=false,suspended=true,navToken=0,framePending=false,renderQueue=Promise.resolve();
